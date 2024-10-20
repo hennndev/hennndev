@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hendra Adriyanto Permana Putra</h1>
 <h3 align="center">An ordinary people who have interest with Space and History.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nenofetch&label=Profile%20views&color=0e75b6&style=flat" alt="nenofetch" /> </p>
-
 - 🌱 I have interest to learning **Fullstack Web Developer, Mobile Developer and DevOps, and Web3**
 
 - 👨‍💻 All of my projects are available at [https://hennndev.my.id](https://hennndev.my.id)
